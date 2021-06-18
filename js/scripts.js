@@ -420,38 +420,6 @@ $(function () {
 		}
 	});
 
-	/*
-		Tesimonials Carousel
-	*/
-	var revs_slider = $(".revs-carousel.default-revs .owl-carousel");
-
-	revs_slider.owlCarousel({
-		margin: 0,
-		items: 1,
-		autoplay: false,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		loop: true,
-		rewind: false,
-		nav: false,
-		dots: true
-	});
-
-	var rtl_revs_slider = $(".revs-carousel.rtl-revs .owl-carousel");
-
-	rtl_revs_slider.owlCarousel({
-		margin: 0,
-		items: 1,
-		rtl: true,
-		autoplay: false,
-		autoplayTimeout: 5000,
-		autoplayHoverPause: true,
-		loop: true,
-		rewind: false,
-		nav: false,
-		dots: true
-	});
-
 
 	/*
 		New JS
