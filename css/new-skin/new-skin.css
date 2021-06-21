@@ -2668,9 +2668,3 @@ a.next.page-numbers:hover {
 	    left: 0;
 	}
 }
-
-@media (max-width: 680px) {
-	.container {
-	    padding-top: 118px;
-	}
-}
