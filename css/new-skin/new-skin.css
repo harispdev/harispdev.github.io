@@ -2617,6 +2617,11 @@ a.next.page-numbers:hover {
 	font-size: 18px;
 }
 
+.years {
+	font-size: 12px;
+	color: gray;
+}
+
 .profile .main-menu ul li ul li ul li a {
 	font-size: 15px;
 }
