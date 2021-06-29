@@ -67,6 +67,11 @@ strong {
 	font-weight: 600;
 }
 
+.about-me-text {
+	font-size: 14px;
+	margin-top: 20px !important;
+}
+
 @media (max-width: 680px) {
 	h1,
 	h2,
@@ -732,7 +737,7 @@ input[type="file"] {
 }
 
 .card-started .profile.no-photo .title {
-	margin-top: 240px;
+	/*margin-top: 240px;*/
 }
 
 .card-started .profile .slide {
@@ -853,7 +858,7 @@ input[type="file"] {
 		height: 55%;
 	}
 	.card-started .profile.no-photo .title {
-		margin-top: 200px;
+		/*margin-top: 200px;*/
 	}
 }
 
