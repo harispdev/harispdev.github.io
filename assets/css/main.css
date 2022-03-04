@@ -51,6 +51,10 @@
   }
 }
 
+.category {
+  color: #666;
+}
+
 body {
   position: relative;
   background: #fff;
@@ -248,7 +252,9 @@ textarea:focus {
   background: #7DB7EA; }
   .styled-section a {
     color: currentColor; }
-
+  .styled-section p {
+    color: #aaaaaa;
+  }
 .main-footer {
   background: #213140; }
 
@@ -646,6 +652,8 @@ section:nth-child(2) {
   margin: 0 0 30px;
   padding: 8px 15px 8px 30px;
   border: 2px solid currentColor;
+  background: #333333;
+  color: #FFFFFF;
   border-radius: 20px;
   font-weight: bold;
   font-size: 0.8em;
@@ -698,7 +706,8 @@ section:nth-child(2) {
     display: inline-block;
     margin: 0 6px 10px 0;
     padding: 15px 25px;
-    border: 2px solid currentColor;
+    background: #aaaaaa;
+    color: #FFFFFF;
     border-radius: 30px;
     font-weight: bold; }
 
